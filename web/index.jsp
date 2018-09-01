@@ -8,9 +8,13 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>My super web-app!</title>
+    <title>Prj1</title>
   </head>
   <body>
-    I'm alive!
+  <a href="/users">Users</a>
+
+  <h1 align="center">
+        Home page
+    </h1>
   </body>
 </html>
